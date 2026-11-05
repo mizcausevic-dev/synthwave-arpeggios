@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+sa01,Coastal Signal,pack-local equal-tempered pitch collection,C,110,4/4,480,32,61440,midi/sa01-coastal-signal/sa01-coastal-signal-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sa02,Night Drive,pack-local equal-tempered pitch collection,D#,110,4/4,480,32,61440,midi/sa02-night-drive/sa02-night-drive-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sa03,Blue Hour,pack-local equal-tempered pitch collection,F#,110,4/4,480,32,61440,midi/sa03-blue-hour/sa03-blue-hour-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sa04,Last Horizon,pack-local equal-tempered pitch collection,C#,110,4/4,480,32,61440,midi/sa04-last-horizon/sa04-last-horizon-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

@@ -1,0 +1,26 @@
+{
+  "title": "Synthwave Arpeggios",
+  "study": "sa01",
+  "bpm": 110,
+  "source_audio": "preview/synthwave-arpeggios-simple-synth-preview.mp3",
+  "source_audio_sha256": "95a78860c1e1df29ed6a143a030d9dc9d06e3420bb835ee67b523ebc4e302b32",
+  "source_midi": "midi/sa01-coastal-signal/sa01-coastal-signal-combined.mid",
+  "source_midi_sha256": "611b52e6ff28a4fd0a82dbbc11dd67911d758e6ef10535d60037d8d489bcfb99",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "dd01962c0f9efa4bd1fd8f5ec3b388170f0de190aa27174c0829ae814f263d2a",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "defef07acd61ca282b165b204cc83d72d5f9cf7bea3bb1a2f60a8d3d2fb5831e",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "b81c0da6945aed36ddfb93c74f3b48ac07dc6bc0c3ad3a4c0bfcd113f6ac0e56",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
