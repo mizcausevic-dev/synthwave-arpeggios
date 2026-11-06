@@ -9,7 +9,5 @@
     "social/instagram/square.jpg",
     "social/instagram/portrait.jpg",
     "social/x/card.jpg"
-  ],
-  "generator": "OpenAI built-in image generation",
-  "prompt_file": "art/image-prompt.txt"
+  ]
 }

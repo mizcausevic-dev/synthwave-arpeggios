@@ -10,5 +10,5 @@
   "captions": "single cue covers 0 to 18 seconds",
   "disclosure": "On-screen for the entire animated film",
   "limitations": "Automated checks only; no human listening or visual review.",
-  "motion": "Two frames differ; animated score events and moving artwork"
+  "motion": "Animated MIDI score events and moving artwork"
 }

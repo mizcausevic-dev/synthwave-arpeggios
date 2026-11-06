@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T02:04:00.355211+00:00",
+  "run_time_utc": "2026-11-06T11:48:31.168011+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,14 +26,14 @@
     },
     {
       "path": "midi/sa01-coastal-signal/principal_motif.mid",
-      "bytes": 1631,
-      "sha256": "f32a5c7613df95cf8c75acf93657efee7a0640e92cad56def9b5de05b89a7580",
+      "bytes": 1432,
+      "sha256": "2f5f3578d20d2ac53c1e9457cd30b96a4e358ac55afe2d65de8bf38aee295542",
       "errors": []
     },
     {
       "path": "midi/sa01-coastal-signal/sa01-coastal-signal-combined.mid",
-      "bytes": 6179,
-      "sha256": "611b52e6ff28a4fd0a82dbbc11dd67911d758e6ef10535d60037d8d489bcfb99",
+      "bytes": 5980,
+      "sha256": "115845b3e0174f3ed5181e8a01e546e7a7befdfcfd0c67c8d0471d99e7ac7905",
       "errors": []
     },
     {
@@ -68,14 +68,14 @@
     },
     {
       "path": "midi/sa02-night-drive/principal_motif.mid",
-      "bytes": 1631,
-      "sha256": "4b89aa081ee4181ca9e4191158193ed6f71b056971277566f75f509180e3e892",
+      "bytes": 1429,
+      "sha256": "6b0da849ca84f233c97469e76ff55eb443d63c0319d1a6afbcf3a07b893fe55d",
       "errors": []
     },
     {
       "path": "midi/sa02-night-drive/sa02-night-drive-combined.mid",
-      "bytes": 6179,
-      "sha256": "494dfc4ebfa903be4b8fc986cfb0283e34c0d6d9c73f934cd2e9da1fc2ac8259",
+      "bytes": 5977,
+      "sha256": "7af53a415c54a0331b71b358ec28d459adb7264bd29fdeaaac0b63c0a405df29",
       "errors": []
     },
     {
@@ -110,14 +110,14 @@
     },
     {
       "path": "midi/sa03-blue-hour/principal_motif.mid",
-      "bytes": 1565,
-      "sha256": "730ba32ef9100b24d8e9d7660807d095e64b5290bcd729394b63f8e7b7880d59",
+      "bytes": 1382,
+      "sha256": "1a3f006c02b445065673f60b6d4dd33d071d067f20c3fec44a275e132b6c8ecf",
       "errors": []
     },
     {
       "path": "midi/sa03-blue-hour/sa03-blue-hour-combined.mid",
-      "bytes": 6113,
-      "sha256": "d553f0547036ab9580edb0ddc6d5af160019ee1a8b1c0aeb25c91adb70a658b2",
+      "bytes": 5930,
+      "sha256": "f7570b1bb5c407306f3a849f01d871fd519d82ef90138fcb2a0380e9f9176290",
       "errors": []
     },
     {
@@ -152,14 +152,14 @@
     },
     {
       "path": "midi/sa04-last-horizon/principal_motif.mid",
-      "bytes": 1567,
-      "sha256": "b12939132dc5e3e7918f5602ac2170c066b0a278f9957acdb8e283995fa150cb",
+      "bytes": 1379,
+      "sha256": "0720576eb9fd880cc6b1fd1ce5c7a9e4c5494ec3c265254d09bb05a4e749fad6",
       "errors": []
     },
     {
       "path": "midi/sa04-last-horizon/sa04-last-horizon-combined.mid",
-      "bytes": 6115,
-      "sha256": "e5a0a10c891093c26fd6774a3058b98349d73ea887dc0a02a3aa4a1705932bdb",
+      "bytes": 5927,
+      "sha256": "343b9289d9e735716381791ba04c9c20ad0b6c398a3d02f2dd483701a5a81c1d",
       "errors": []
     },
     {

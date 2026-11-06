@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/synthwave-arpeggios-simple-synth-preview.mp3",
-  "preview_sha256": "95a78860c1e1df29ed6a143a030d9dc9d06e3420bb835ee67b523ebc4e302b32",
+  "preview_sha256": "2af75f50d01366aa2754c9c0ac143a8257a2ede58008d5028024c463bf04e682",
   "source_midi_path": "midi/sa01-coastal-signal/sa01-coastal-signal-combined.mid",
-  "source_midi_sha256": "611b52e6ff28a4fd0a82dbbc11dd67911d758e6ef10535d60037d8d489bcfb99",
+  "source_midi_sha256": "115845b3e0174f3ed5181e8a01e546e7a7befdfcfd0c67c8d0471d99e7ac7905",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 69.818
   },
   "measurement": {
-    "sample_peak": 0.14593,
+    "sample_peak": 0.144026,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
