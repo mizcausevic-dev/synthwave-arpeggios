@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/synthwave-arpeggios-midi.zip",
-      "bytes": 31749,
-      "sha256": "6bbd0766292879d917b325ab3fc013c3a37ef82dd6e9a1543c6e75f5dc151a25"
+      "bytes": 33851,
+      "sha256": "a2a1bc8a2a4ae83755acbea99e890d0188e7fd7063d7531f6b2d325b7247474d"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10568,
-      "sha256": "45a96edb9c928fb9002d08ac3266834b80e3df95d62bada1fce617a599adf22e"
+      "bytes": 10758,
+      "sha256": "e793a62944decf5a155142b38b4e7639f733dd9b4e9c1dbe3cb754a673d03f05"
     },
     {
       "path": "midi/sa01-coastal-signal/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "fbfda4b457a71319fcbc979ed6b7863e92b41f3574f31e945cab98eba49f0371"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1138,
       "sha256": "ea857a2abc3529f5550e5a65e29cfd560f4d2dc4e7378cbdcc28aad862b54fac"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4108,
-      "sha256": "9a65ab3f320b4a70054310da68f4088632ed4f1b982457fc783b0e0b908acf6c"
+      "bytes": 4223,
+      "sha256": "fd4f7d629c92e81e7b9b792bc4bb059d64f4fd568e44e0586a1dfbc207949596"
     },
     {
       "path": "REVISION.md",
